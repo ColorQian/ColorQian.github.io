@@ -1,19 +1,23 @@
-extends widget/base
+{% extends '_layout.swig' %}
+{% import '_macro/post.swig' as post_template %}
+{% import '_macro/sidebar.swig' as sidebar_template %}
 
-block append head
-    link(rel='stylesheet', href= url_for("/style/widget-post-list.css"))
+{% block title %}{{ config.title }}{% if theme.index_with_subtitle and config.subtitle %} - {{config.subtitle }}{% endif %}{% endblock %}
 
-block content
-    include widget/widget-post-list
-        block sidebar
-            include widget/widget-search
-            if theme.widgets.includes('profile')
-                include widget/widget-profile
-            if theme.widgets.includes('recent_posts')
-                include widget/widget-recent
-            if theme.widgets.includes('category') && site.categories.length > 0
-                include widget/widget-categories
-            if theme.widgets.includes('archive')
-                include widget/widget-archives
-            if theme.widgets.includes('tag') && site.tags.length > 0
-                include widget/widget-tag
+{% block page_class %}
+  {% if is_home() %}page-home{% endif -%}
+{% endblock %}
+
+{% block content %}
+  <section id="posts" class="posts-expand">
+    {% for post in page.posts %}
+      {{ post_template.render(post, true) }}
+    {% endfor %}
+  </section>
+
+  {% include '_partials/pagination.swig' %}
+{% endblock %}
+
+{% block sidebar %}
+  {{ sidebar_template.render(false) }}
+{% endblock %}
