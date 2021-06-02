@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我的第一篇博客文章</title>
+      <link href="2021/04/15/wo-de-di-yi-pian-bo-ke-wen-zhang/"/>
+      <url>2021/04/15/wo-de-di-yi-pian-bo-ke-wen-zhang/</url>
+      
+        <content type="html"><![CDATA[<p>##关于我<br>姓名：钱佳乐<span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><br>来自南京理工大学<br>你可以通过邮箱联系我：<a href="mailto:qjl@njust.edu.cn">qjl@njust.edu.cn</a></p><hr><p>##关于这个博客网站<br>网站名：”<a href="http://colorqian.gitee.io&quot;/">http://colorqian.gitee.io"</a><br>我将会不定期的在这个网站上发布一些关于java的文章</p><hr><p>##技术支持<br>程序羊</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo博客的启动和部署</title>
+      <link href="2021/04/15/hexo-bo-ke-de-qi-dong-he-bu-shu/"/>
+      <url>2021/04/15/hexo-bo-ke-de-qi-dong-he-bu-shu/</url>
+      
+        <content type="html"><![CDATA[<h1 id="本篇博客主要记录hexo博客的启动和部署"><a href="#本篇博客主要记录hexo博客的启动和部署" class="headerlink" title="本篇博客主要记录hexo博客的启动和部署"></a>本篇博客主要记录hexo博客的启动和部署</h1><h2 id="启动hexo博客"><a href="#启动hexo博客" class="headerlink" title="启动hexo博客"></a>启动hexo博客</h2><ul><li><p>在blog文件夹下，输入cmd,进入Windows的命令提示行窗口</p></li><li><p>输入”hexo server”即可启动 hexo 博客</p></li><li><p>打开浏览器，输入地址：<a href="http://localhost:4000/">http://localhost:4000</a>,即可从本地访问hexo博客</p></li></ul><hr><h2 id="添加部署信息"><a href="#添加部署信息" class="headerlink" title="添加部署信息"></a>添加部署信息</h2><ul><li><p>在_config.yml文件中操作(_config.yml文件的最下面修改)，可以将博客部署到github或者gitee</p></li><li><p>例如我的设置为：</p><pre><code>           deploy:           type: git           repo: https://gitee.com/ColorQian/ColorQian.git           branch: master           </code></pre></li><li><p>修改好配置后，运行如下命令，将代码部署到gitee</p><pre><code>          hexo clean   hexo generate   hexo deploy </code></pre></li><li><p>在gitee的Gitee Pages 页面更新部署</p></li><li><p>在浏览器地址栏输入：<a href="http://colorqian.gitee.io/">http://colorqian.gitee.io</a> 即可访问博客</p></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
