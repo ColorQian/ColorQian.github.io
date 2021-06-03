@@ -4,24 +4,24 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>color</title>
-    <link>http://example.com/</link>
+    <link>https://ColorQian.gitee.io/ColorQian/</link>
     
     <image>
-      <url>http://example.com/icon.png</url>
+      <url>https://colorqian.gitee.io/ColorQian/icon.png</url>
       <title>color</title>
-      <link>http://example.com/</link>
+      <link>https://ColorQian.gitee.io/ColorQian/</link>
     </image>
     
-    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://colorqian.gitee.io/ColorQian/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>רע��java��˵�ѧϰ</description>
-    <pubDate>Wed, 02 Jun 2021 07:27:19 GMT</pubDate>
+    <description>专注于java后端的学习</description>
+    <pubDate>Thu, 03 Jun 2021 06:22:34 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>hexo博客的启动和部署</title>
-      <link>http://example.com/2021/04/15/hexo-bo-ke-de-qi-dong-he-bu-shu/</link>
-      <guid>http://example.com/2021/04/15/hexo-bo-ke-de-qi-dong-he-bu-shu/</guid>
+      <link>https://colorqian.gitee.io/ColorQian/posts/be0d.html</link>
+      <guid>https://colorqian.gitee.io/ColorQian/posts/be0d.html</guid>
       <pubDate>Thu, 15 Apr 2021 08:12:23 GMT</pubDate>
       
         
@@ -37,14 +37,14 @@
       
       
       
-      <comments>http://example.com/2021/04/15/hexo-bo-ke-de-qi-dong-he-bu-shu/#disqus_thread</comments>
+      <comments>https://colorqian.gitee.io/ColorQian/posts/be0d.html#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>我的第一篇博客文章</title>
-      <link>http://example.com/2021/04/15/wo-de-di-yi-pian-bo-ke-wen-zhang/</link>
-      <guid>http://example.com/2021/04/15/wo-de-di-yi-pian-bo-ke-wen-zhang/</guid>
+      <link>https://colorqian.gitee.io/ColorQian/posts/3d22.html</link>
+      <guid>https://colorqian.gitee.io/ColorQian/posts/3d22.html</guid>
       <pubDate>Thu, 15 Apr 2021 08:12:23 GMT</pubDate>
       
         
@@ -60,7 +60,7 @@
       
       
       
-      <comments>http://example.com/2021/04/15/wo-de-di-yi-pian-bo-ke-wen-zhang/#disqus_thread</comments>
+      <comments>https://colorqian.gitee.io/ColorQian/posts/3d22.html#disqus_thread</comments>
       
     </item>
     

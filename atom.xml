@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>color</title>
-  <icon>http://example.com/icon.png</icon>
-  <subtitle>Ten thousand years is too long,seize the day,seize the hour</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <icon>https://colorqian.gitee.io/ColorQian/icon.png</icon>
+  <subtitle>一万年太久,只争朝夕</subtitle>
+  <link href="https://colorqian.gitee.io/ColorQian/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-06-02T07:27:19.005Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://colorqian.gitee.io/ColorQian/"/>
+  <updated>2021-06-03T06:22:34.057Z</updated>
+  <id>https://colorqian.gitee.io/ColorQian/</id>
   
   <author>
     <name>QianJL</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>hexo博客的启动和部署</title>
-    <link href="http://example.com/2021/04/15/hexo-bo-ke-de-qi-dong-he-bu-shu/"/>
-    <id>http://example.com/2021/04/15/hexo-bo-ke-de-qi-dong-he-bu-shu/</id>
+    <link href="https://colorqian.gitee.io/ColorQian/posts/be0d.html"/>
+    <id>https://colorqian.gitee.io/ColorQian/posts/be0d.html</id>
     <published>2021-04-15T08:12:23.000Z</published>
-    <updated>2021-06-02T07:27:19.005Z</updated>
+    <updated>2021-06-03T06:22:34.057Z</updated>
     
     
       
@@ -39,10 +39,10 @@
   
   <entry>
     <title>我的第一篇博客文章</title>
-    <link href="http://example.com/2021/04/15/wo-de-di-yi-pian-bo-ke-wen-zhang/"/>
-    <id>http://example.com/2021/04/15/wo-de-di-yi-pian-bo-ke-wen-zhang/</id>
+    <link href="https://colorqian.gitee.io/ColorQian/posts/3d22.html"/>
+    <id>https://colorqian.gitee.io/ColorQian/posts/3d22.html</id>
     <published>2021-04-15T08:12:23.000Z</published>
-    <updated>2021-06-02T14:20:11.412Z</updated>
+    <updated>2021-06-03T06:22:34.060Z</updated>
     
     
       
