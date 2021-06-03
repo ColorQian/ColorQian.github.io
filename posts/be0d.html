@@ -427,29 +427,22 @@
 </ul>
 <hr>
 <h2 id="添加部署信息"><a href="#添加部署信息" class="headerlink" title="添加部署信息"></a>添加部署信息</h2><ul>
-<li><p>在_config.yml文件中操作(_config.yml文件的最下面修改)，可以将博客部署到github或者gitee</p>
-</li>
-<li><p>例如我的设置为：```</p>
-<pre><code>           deploy:
-           type: git
-           repo: https://gitee.com/ColorQian/ColorQian.git
-           branch: master
-    ```
-           
+<li>在_config.yml文件中操作(_config.yml文件的最下面修改)，可以将博客部署到github或者gitee</li>
+<li>例如我的设置为：<pre><code>deploy:
+type: git
+repo: https://github.com/ColorQian/ColorQian.git
+branch: master
 </code></pre>
 </li>
-<li><p>修改好配置后，运行如下命令，将代码部署到gitee</p>
-<pre><code>  ```
-          hexo clean 
-  hexo generate 
-  hexo deploy 
-  ```
+<li>修改好配置后，运行如下命令，将代码部署到gitee</li>
+</ul>
+<pre><code>hexo clean 
+hexo generate 
+hexo deploy
 </code></pre>
-</li>
-<li><p>在gitee的Gitee Pages 页面更新部署</p>
-</li>
-<li><p>在浏览器地址栏输入：<a target="_blank" rel="noopener" href="http://colorqian.gitee.io/">http://colorqian.gitee.io</a> 即可访问博客</p>
-</li>
+<ul>
+<li>在gitee的Gitee Pages 页面更新部署</li>
+<li>在浏览器地址栏输入：<a href="http://colorqian.github.io/">http://colorqian.github.io</a> 即可访问博客</li>
 </ul>
 
                 
