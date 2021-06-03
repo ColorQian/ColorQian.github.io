@@ -4,12 +4,12 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>color</title>
-    <link>https://ColorQian.github.io/</link>
+    <link>https://colorqian.github.io/</link>
     
     <image>
       <url>https://colorqian.github.io/icon.png</url>
       <title>color</title>
-      <link>https://ColorQian.github.io/</link>
+      <link>https://colorqian.github.io/</link>
     </image>
     
     <atom:link href="https://colorqian.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
