@@ -6,7 +6,7 @@
   <link href="https://colorqian.github.io/atom.xml" rel="self"/>
   
   <link href="https://colorqian.github.io/"/>
-  <updated>2021-06-03T11:11:13.148Z</updated>
+  <updated>2021-06-03T11:29:48.212Z</updated>
   <id>https://colorqian.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://colorqian.github.io/posts/be0d.html"/>
     <id>https://colorqian.github.io/posts/be0d.html</id>
     <published>2021-06-02T08:12:23.000Z</published>
-    <updated>2021-06-03T11:11:13.148Z</updated>
+    <updated>2021-06-03T11:29:48.212Z</updated>
     
     
       
@@ -34,6 +34,10 @@
     
     
     
+    <category term="Hexo" scheme="https://colorqian.github.io/categories/Hexo/"/>
+    
+    
+    <category term="博客" scheme="https://colorqian.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
