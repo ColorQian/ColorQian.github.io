@@ -4,15 +4,15 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>color</title>
-    <link>https://ColorQian.github.io/</link>
+    <link>https://ColorQian.gitee.io/</link>
     
     <image>
-      <url>https://colorqian.github.io/icon.png</url>
+      <url>https://colorqian.gitee.io/icon.png</url>
       <title>color</title>
-      <link>https://ColorQian.github.io/</link>
+      <link>https://ColorQian.gitee.io/</link>
     </image>
     
-    <atom:link href="https://colorqian.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://colorqian.gitee.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于java后端的学习</description>
     <pubDate>Thu, 03 Jun 2021 06:22:34 GMT</pubDate>
@@ -20,8 +20,8 @@
     
     <item>
       <title>hexo博客的启动和部署</title>
-      <link>https://colorqian.github.io/posts/be0d.html</link>
-      <guid>https://colorqian.github.io/posts/be0d.html</guid>
+      <link>https://colorqian.gitee.io/posts/be0d.html</link>
+      <guid>https://colorqian.gitee.io/posts/be0d.html</guid>
       <pubDate>Thu, 15 Apr 2021 08:12:23 GMT</pubDate>
       
         
@@ -37,14 +37,14 @@
       
       
       
-      <comments>https://colorqian.github.io/posts/be0d.html#disqus_thread</comments>
+      <comments>https://colorqian.gitee.io/posts/be0d.html#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>我的第一篇博客文章</title>
-      <link>https://colorqian.github.io/posts/3d22.html</link>
-      <guid>https://colorqian.github.io/posts/3d22.html</guid>
+      <link>https://colorqian.gitee.io/posts/3d22.html</link>
+      <guid>https://colorqian.gitee.io/posts/3d22.html</guid>
       <pubDate>Thu, 15 Apr 2021 08:12:23 GMT</pubDate>
       
         
@@ -60,7 +60,7 @@
       
       
       
-      <comments>https://colorqian.github.io/posts/3d22.html#disqus_thread</comments>
+      <comments>https://colorqian.gitee.io/posts/3d22.html#disqus_thread</comments>
       
     </item>
     
