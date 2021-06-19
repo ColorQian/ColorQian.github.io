@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>markdown语法的使用、博文标题的使用</title>
+      <link href="posts/9892.html"/>
+      <url>posts/9892.html</url>
+      
+        <content type="html"><![CDATA[<p>[TOC]</p><h1 id="关于博文的Front-matter的使用"><a href="#关于博文的Front-matter的使用" class="headerlink" title="关于博文的Front-matter的使用"></a>关于博文的Front-matter的使用</h1><ul><li>Front-matter中的内容为非必填项，但建议至少填写title和date</li></ul><p>![Front-matter详解](D:/PROGRAM FILE BY MYSELF/截图/Snipaste_2021-06-19_15-50-13.png)</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> markdown </tag>
+            
+            <tag> front-matter </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hexo博客的启动和部署</title>
       <link href="posts/be0d.html"/>
       <url>posts/be0d.html</url>
