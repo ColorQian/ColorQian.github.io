@@ -4,15 +4,15 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>color</title>
-    <link>https://colorfo.top/</link>
+    <link>http://colorfo.top/</link>
     
     <image>
-      <url>https://colorfo.top/icon.png</url>
+      <url>http://colorfo.top/icon.png</url>
       <title>color</title>
-      <link>https://colorfo.top/</link>
+      <link>http://colorfo.top/</link>
     </image>
     
-    <atom:link href="https://colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于java后端的学习</description>
     <pubDate>Thu, 03 Jun 2021 11:29:48 GMT</pubDate>
@@ -20,8 +20,8 @@
     
     <item>
       <title>hexo博客的启动和部署</title>
-      <link>https://colorfo.top/posts/be0d.html</link>
-      <guid>https://colorfo.top/posts/be0d.html</guid>
+      <link>http://colorfo.top/posts/be0d.html</link>
+      <guid>http://colorfo.top/posts/be0d.html</guid>
       <pubDate>Wed, 02 Jun 2021 08:12:23 GMT</pubDate>
       
         
@@ -35,20 +35,20 @@
       
       
       
-      <category domain="https://colorfo.top/categories/Hexo/">Hexo</category>
+      <category domain="http://colorfo.top/categories/Hexo/">Hexo</category>
       
       
-      <category domain="https://colorfo.top/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      <category domain="http://colorfo.top/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
       
       
-      <comments>https://colorfo.top/posts/be0d.html#disqus_thread</comments>
+      <comments>http://colorfo.top/posts/be0d.html#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>我的第一篇博客文章</title>
-      <link>https://colorfo.top/posts/3d22.html</link>
-      <guid>https://colorfo.top/posts/3d22.html</guid>
+      <link>http://colorfo.top/posts/3d22.html</link>
+      <guid>http://colorfo.top/posts/3d22.html</guid>
       <pubDate>Thu, 15 Apr 2021 08:12:23 GMT</pubDate>
       
         
@@ -64,7 +64,7 @@
       
       
       
-      <comments>https://colorfo.top/posts/3d22.html#disqus_thread</comments>
+      <comments>http://colorfo.top/posts/3d22.html#disqus_thread</comments>
       
     </item>
     
