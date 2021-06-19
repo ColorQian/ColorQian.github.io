@@ -15,8 +15,35 @@
     <atom:link href="http://colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于java后端的学习</description>
-    <pubDate>Thu, 03 Jun 2021 11:29:48 GMT</pubDate>
+    <pubDate>Sat, 19 Jun 2021 04:10:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>hexo博客的启动和部署2222</title>
+      <link>http://colorfo.top/posts/be0d.html</link>
+      <guid>http://colorfo.top/posts/be0d.html</guid>
+      <pubDate>Fri, 18 Jun 2021 08:12:23 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;本篇博客主要记录hexo博客的启动和部署&quot;&gt;&lt;a href=&quot;#本篇博客主要记录hexo博客的启动和部署&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="http://colorfo.top/categories/Hexo/">Hexo</category>
+      
+      
+      <category domain="http://colorfo.top/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      
+      <comments>http://colorfo.top/posts/be0d.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>hexo博客的启动和部署</title>
