@@ -15,8 +15,35 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于java后端的学习</description>
-    <pubDate>Sat, 19 Jun 2021 12:48:46 GMT</pubDate>
+    <pubDate>Sat, 24 Jul 2021 14:53:39 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>springboot之-MatrixVariable注解使用</title>
+      <link>https://www.colorfo.top/posts/80aa.html</link>
+      <guid>https://www.colorfo.top/posts/80aa.html</guid>
+      <pubDate>Sat, 24 Jul 2021 14:51:43 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;p&gt;​        根据 URI 规范 RFC 3986 中 URL 的定义，路径片段中可以可以包含键值对。规范中没对对应的术语。一般</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.colorfo.top/categories/springboot%E6%B3%A8%E8%A7%A3/">springboot注解</category>
+      
+      
+      <category domain="https://www.colorfo.top/tags/MatrixVariable/">MatrixVariable</category>
+      
+      
+      <comments>https://www.colorfo.top/posts/80aa.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>markdown语法的使用、博文标题的使用</title>
