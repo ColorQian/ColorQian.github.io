@@ -15,36 +15,8 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于java后端的学习</description>
-    <pubDate>Sun, 25 Jul 2021 13:18:40 GMT</pubDate>
+    <pubDate>Sun, 25 Jul 2021 07:27:34 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title>springboot集成websocket实现聊天室的index.jsp代码</title>
-      <link>https://www.colorfo.top/posts/undefined.html</link>
-      <guid>https://www.colorfo.top/posts/undefined.html</guid>
-      <pubDate>Sun, 25 Jul 2021 06:54:58 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;pre class=&quot; language-jsp&quot;&gt;&lt;code class=&quot;language-jsp&quot;&gt;&lt;%@ page contentType=&quot;text/html;charset=UTF-8&quot; language=&quot;java&quot; %&gt;
-&lt;!DOCTYPE</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://www.colorfo.top/categories/springboot/">springboot</category>
-      
-      
-      <category domain="https://www.colorfo.top/tags/websocket/">websocket</category>
-      
-      
-      <comments>https://www.colorfo.top/posts/undefined.html#disqus_thread</comments>
-      
-    </item>
     
     <item>
       <title>springboot集成websocket实现聊天室</title>
