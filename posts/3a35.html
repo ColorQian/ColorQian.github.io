@@ -430,8 +430,7 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                <p>[TOC]</p>
-<h1 id="1-websocket简介"><a href="#1-websocket简介" class="headerlink" title="1.websocket简介"></a>1.websocket简介</h1><h2 id="WebSocket协议"><a href="#WebSocket协议" class="headerlink" title="WebSocket协议"></a>WebSocket协议</h2><p>WebSocket协议是由HTML5定义的，基于TCP协议实现的一种网络协议，通过该协议服务器可以主动向客户端发送信息；</p>
+                <h1 id="1-websocket简介"><a href="#1-websocket简介" class="headerlink" title="1.websocket简介"></a>1.websocket简介</h1><h2 id="WebSocket协议"><a href="#WebSocket协议" class="headerlink" title="WebSocket协议"></a>WebSocket协议</h2><p>WebSocket协议是由HTML5定义的，基于TCP协议实现的一种网络协议，通过该协议服务器可以主动向客户端发送信息；</p>
 <p>WebSocket 协议在2008年诞生，2011年成为W3C国际标准；我们已经有了 HTTP 协议，为什么出现一个websocket协议？</p>
 <p>http协议是短连接，因为请求之后，都会关闭连接，下次重新请求数据，需要再次打开链接；WebSocket协议是一种长连接，只需要通过一次请求来初始化连接，然后所有的请求和响应都是通过这个TCP连接进行通讯； 所以HTTP协议通信只能是客户端向服务器发出请求，服务器返回响应结果，HTTP 协议做不到服务器主动向客户端推送信息，而websocket能实现服务器和客户端全双工通信；</p>
 <ul>
@@ -621,98 +620,8 @@ spring.mvc.view.suffix=.jsp
 </code></pre>
 </li>
 <li><p>index.jsp文件详情</p>
-<pre class=" language-jsp"><code class="language-jsp"><%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<!DOCTYPE html>
-
-<%--   此注释内为index.jsp的代码，使用时，请删除这一行
-    
-<html>
-<head>
-    <meta charset="utf-8">
-    <script src="${pageContext.request.contextPath}/js/jquery.min.js"></script>
-    <title>SpringBoot+WebSocket+JSP</title>
-</head>
-
-<body style="margin: 45px;">
-    <h4>在线聊天室</h4>
-    <div class="form-group">
-        <label for="content"></label>
-        <textarea id="content" readonly="readonly" cols="80" rows="15"></textarea>
-    </div>
-
-    <div class="form-group" style="margin-top: 8px">
-        <textarea id="message" cols="80" rows="5" placeholder="请输入消息"></textarea>
-        <div style="margin-top: 10px">
-            <button id="toSend" class="btn btn-info">发送</button>
-            <button id="user_exit" class="btn btn-danger">离开</button>
-            <input id="username" value="${username}" style="display: none">
-        </div>
-    </div>
-
-    <script type="text/javascript">
-        $(function () {
-            var ws;
-            if ("WebSocket" in window) {
-                var baseUrl = 'ws://localhost:8080/websocket/';
-                var userName = $('#username').val();
-                ws = new WebSocket(baseUrl + userName);
-
-                // 连通之后的回调事件，建立连接
-                ws.onopen = function () {
-                    console.log("建立 websocket 连接...");
-                };
-
-                // 接收后台服务端的消息
-                ws.onmessage = function (event) {
-                    $('#content').append(event.data + '\n\n');
-                    console.log("接收到服务端发送的消息..." + event.data + '\n');
-                };
-
-                ws.onerror = function (event) {
-                    console.log("websocket发生错误..." + event + '\n');
-                }
-
-                // 连接关闭的回调事件
-                ws.onclose = function () {
-                    $('#content').append('[' + userName + '] 已离开!');
-                    console.log("关闭 websocket 连接...");
-                };
-            } else {
-                // 浏览器不支持 WebSocket
-                alert("您的浏览器不支持WebSocket!");
-            }
-
-            // 客户端发送消息到服务器
-            $('#toSend').click(function () {
-                sendMsg();
-            });
-
-            $(document).keyup(function (event) {
-                // 回车键事件
-                if (event.keyCode == 13) {
-                    sendMsg();
-                }
-            });
-
-            // 发送消息
-            function sendMsg() {
-                //websocket发送消息
-                ws.send($('#message').val());
-                $('#message').val("");
-            }
-
-            // 退出
-            $('#user_exit').click(function () {
-                if (ws) {
-                    ws.close();
-                }
-            });
-        });
-    </script>
-</body>
-</html>
-
-此注释内为index.jsp的代码，使用时，请删除这一行--%>
+<pre class=" language-jsp"><code class="language-jsp">hexo博客不能正常显示jsp格式的代码
+代码详情见C:\Users\Administrator\IdeaProjects\springboot-course\041-springboot-websocket\src\main\webapp\index.jsp
 </code></pre>
 <ul>
 <li>还需要一个jquery.min.js文件，可以去网上下载</li>
@@ -1466,17 +1375,18 @@ spring.mvc.view.suffix=.jsp
 <article id="prenext-posts" class="prev-next articles">
     <div class="row article-row">
         
-        <div class="article col s12 m6" data-aos="fade-up">
+        <div class="article col s12 m6" data-aos="fade-up" data-aos="fade-up">
             <div class="article-badge left-badge text-color">
-                <i class="fas fa-chevron-left"></i>&nbsp;上一篇</div>
+                <i class="far fa-dot-circle"></i>&nbsp;本篇
+            </div>
             <div class="card">
-                <a href="/posts/undefined.html">
+                <a href="/posts/3a35.html">
                     <div class="card-image">
                         
                         
-                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="/medias/featureimages/14.jpg" class="responsive-img" alt="springboot集成websocket实现聊天室的index.jsp代码">
+                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAEsCAMAAABOo35HAAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAC9UExURVlZWdPT07KysmRkZIWFhfT09JmZmWZmZm9vb39/fxkZGUxMTDMzM3p6epCQkKamppubm729venp6cjIyN7e3tbW1s/Pz8LCwnx8fLS0tFZWVoiIiI+Pj6GhoeTk5Glpabu7u93d3evr66CgoJSUlKqqqsnJyeDg4Hd3d8PDw+Xl5bi4uNHR0dvb26Ojo6urq+fn51hYWDg4OCgoKHBwcK2traenp0FBQe7u7vHx8U5OTre3t8zMzHV1df///7GrnpQAAAA/dFJOU///////////////////////////////////////////////////////////////////////////////////AI4mfBcAAAUGSURBVHja7NoJb6M4GMZxY0NCD64kve/pMZ2d3Z297+X7f6zFNmBAMUXa6URl/q9UJSWPUPzrizFWRUlNLgEBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYYIEFAVhggQUWWGBBABZYYIEFFlgQgAUWWGCBBRYEYIEFFlhggQUBWGCBBRZYYEEAFlhggQUWWBCABRZYYIEFFgRggQUWWGCBBQFYYIEFFlhgQQAWWGCBBRZYEIAFFlhggQUWBGCBBRZYn6cCIcRXgvX/h9qcIVBqDdbEM8RCxGCB9QqXYRwHYDHBgwXWl8eKZKiESHI3Ba1kWs3fKixcaJUl1YyeBm7Ocq+yLItUiVBGnXxenSHJolIKEcwHq6ikbOX1YGVzQCTN8LPmSLreghUl9sN4Uw7yajMrLC0TZ1ImzqY6FEop0+pIaEN5HaoOxVuwEqFyc4I46uSlzOLqgxlh6UaR9l3VYWl9Fdoxb1Q90KJtu41pwwFW/WHhTtW8i7TafLCqRsk6bsGw63L9qurXRmuIlbT9lDQnlXU+nBFW1Q2qnZbDprWa2tjR90LZFqx1/+Td/HpGWLlrLDvIwTcx6dQ1Vrntbig68cDms3JwbA5Y1azs1ger6sNV/bbIw1jU81MvNAGrl58RVn8ozW+btF08iGFoAlYvP3csfVur1gJBEIA1uBmue5dhZDOyO2epbmgCVi8/I6x0MMHH9pjsTfBhNzQBq5uPZoQlB0uH3DZG4EZqQ26fL3sZq5uf09Ih6qw3i/pm6BZO0qZX7rrUS68Xsbr5ZE4rePMk08pk9aUZugfqppvs6AM1Acvlo/StP+6EbW06z8hJqxbYp2BZPQUnFsLsKuhQdaHqn5ewbF7KXIn0jWO5MqOQ7RaNLPtbNMmmhimj0GUmYLl8Gs0Lq4wyPbTu1l2QKqHSouzs3OlDIslW5SQsnY/NXmFplyNvEuuLV/Tau9BzwiraDUSwXmysztYWWNtL1psXeumgIrDGaqXvBfUuvtqUYI3V2t1wk1e2msFluJJm6zDJXv/fIfjPP7DAAgsssCiwwAILLLDAosACCyywwAKLAgsssMACC6zt9fDz/v75tyOB+98PD2+ORgKffjw4OP1uJPDxl+Xy8v1I4MPF3t7VNyOB4/vF4uzdzrG+39f1kz/w66Guv/yBvw90KX/gZKkr8Qf+2dOV+gNHC12/7RxrabD2/a31bLAO/a11YbAO/K21MFhLf2s9Gqw9f2vdGqzFu11jnVusE2/gxmI9eQOnFuvYG7i0WH7uK4t15w2cWazrXWP9a7H8f/bQYvm/6IPF+sF/pVssf19Ii/WH/0K2WH/uGuvEWC39gSdj9Twy+Rqri5EZx1gt/IE7Y/XoD1wbq9vd3w1PlufnD2OBp+ebm/uxwPHF6emnscDR4vLy41jg7vHq6sNY4Pr27OyYdRaLUrDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssMCiwAILLLDAAosCCyywwAILLAossMACCyywKLDAAgsssL6u+k+AAQCR9eHtLKvLfwAAAABJRU5ErkJggg==" data-original="/medias/featureimages/19.jpg" class="responsive-img" alt="springboot集成websocket实现聊天室">
                         
-                        <span class="card-title">springboot集成websocket实现聊天室的index.jsp代码</span>
+                        <span class="card-title">springboot集成websocket实现聊天室</span>
                     </div>
                 </a>
                 <div class="card-content article-content">
@@ -1486,9 +1396,9 @@ spring.mvc.view.suffix=.jsp
                         
                     </div>
                     <div class="publish-info">
-                        <span class="publish-date">
-                            <i class="far fa-clock fa-fw icon-date"></i>2021-07-25
-                        </span>
+                            <span class="publish-date">
+                                <i class="far fa-clock fa-fw icon-date"></i>2021-07-25
+                            </span>
                         <span class="publish-author">
                             
                             <i class="fas fa-bookmark fa-fw icon-category"></i>
@@ -1501,6 +1411,7 @@ spring.mvc.view.suffix=.jsp
                         </span>
                     </div>
                 </div>
+
                 
                 <div class="card-action article-tags">
                     
@@ -1742,7 +1653,7 @@ spring.mvc.view.suffix=.jsp
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">4.7k</span>
+                        class="white-color">4.6k</span>
             
             
             
