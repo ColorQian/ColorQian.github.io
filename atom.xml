@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>color</title>
+  <icon>https://www.colorfo.top/icon.png</icon>
+  <subtitle>一万年太久,只争朝夕</subtitle>
+  <link href="https://www.colorfo.top/atom.xml" rel="self"/>
+  
+  <link href="https://www.colorfo.top/"/>
+  <updated>2021-07-25T06:37:44.021Z</updated>
+  <id>https://www.colorfo.top/</id>
+  
+  <author>
+    <name>QianJL</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>springboot集成websocket实现聊天室</title>
+    <link href="https://www.colorfo.top/posts/3a35.html"/>
+    <id>https://www.colorfo.top/posts/3a35.html</id>
+    <published>2021-07-25T04:04:39.000Z</published>
+    <updated>2021-07-25T06:37:44.021Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;1-websocket简介&quot;&gt;&lt;a href=&quot;#1-websocket简介&quot; class=&quot;headerlink&quot; title=&quot;1.websocket简介&quot;&gt;&lt;/a&gt;1.websocket简介&lt;/h1&gt;&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="springboot" scheme="https://www.colorfo.top/categories/springboot/"/>
+    
+    
+    <category term="websocket" scheme="https://www.colorfo.top/tags/websocket/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>springboot之-MatrixVariable注解使用</title>
+    <link href="https://www.colorfo.top/posts/80aa.html"/>
+    <id>https://www.colorfo.top/posts/80aa.html</id>
+    <published>2021-07-24T14:51:43.000Z</published>
+    <updated>2021-07-24T14:53:39.425Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;&lt;p&gt;​        根据 URI 规范 RFC 3986 中 URL 的定义，路径片段中可以可以包含键值对。规范中没对对应的术语。一般</summary>
+        
+      
+    
+    
+    
+    <category term="springboot注解" scheme="https://www.colorfo.top/categories/springboot%E6%B3%A8%E8%A7%A3/"/>
+    
+    
+    <category term="MatrixVariable" scheme="https://www.colorfo.top/tags/MatrixVariable/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown语法的使用、博文标题的使用</title>
+    <link href="https://www.colorfo.top/posts/9892.html"/>
+    <id>https://www.colorfo.top/posts/9892.html</id>
+    <published>2021-06-19T07:40:00.000Z</published>
+    <updated>2021-06-19T12:48:46.141Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
+&lt;h1 id=&quot;关于博文的Front-matter的使用&quot;&gt;&lt;a href=&quot;#关于博文的Front-matter的使用&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="https://www.colorfo.top/categories/Hexo/"/>
+    
+    
+    <category term="markdown" scheme="https://www.colorfo.top/tags/markdown/"/>
+    
+    <category term="front-matter" scheme="https://www.colorfo.top/tags/front-matter/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo博客的启动和部署</title>
+    <link href="https://www.colorfo.top/posts/be0d.html"/>
+    <id>https://www.colorfo.top/posts/be0d.html</id>
+    <published>2021-06-02T08:12:23.000Z</published>
+    <updated>2021-06-03T11:29:48.212Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;本篇博客主要记录hexo博客的启动和部署&quot;&gt;&lt;a href=&quot;#本篇博客主要记录hexo博客的启动和部署&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Hexo" scheme="https://www.colorfo.top/categories/Hexo/"/>
+    
+    
+    <category term="博客" scheme="https://www.colorfo.top/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇博客文章</title>
+    <link href="https://www.colorfo.top/posts/3d22.html"/>
+    <id>https://www.colorfo.top/posts/3d22.html</id>
+    <published>2021-04-15T08:12:23.000Z</published>
+    <updated>2021-06-03T09:23:14.311Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h2&gt;&lt;p&gt;姓名：钱佳乐&lt;span class=&quot;github-emoji&quot;&gt;&lt;span&gt;😄&lt;/span&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
