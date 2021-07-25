@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>springboot集成websocket实现聊天室</title>
+      <link href="posts/3a35.html"/>
+      <url>posts/3a35.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="websocket简介"><a href="#websocket简介" class="headerlink" title="websocket简介"></a>websocket简介</h1><ul><li>WebSocket协议</li></ul><p>WebSocket协议是由HTML5定义的，基于TCP协议实现的一种网络协议，通过该协议服务器可以主动向客户端发送信息；</p><p>WebSocket 协议在2008年诞生，2011年成为W3C国际标准；我们已经有了 HTTP 协议，为什么出现一个websocket协议？</p><p>http协议是短连接，因为请求之后，都会关闭连接，下次重新请求数据，需要再次打开链接；WebSocket协议是一种长连接，只需要通过一次请求来初始化连接，然后所有的请求和响应都是通过这个TCP连接进行通讯； 所以HTTP协议通信只能是客户端向服务器发出请求，服务器返回响应结果，HTTP 协议做不到服务器主动向客户端推送信息，而websocket能实现服务器和客户端全双工通信；</p><ul><li>何谓全双工</li></ul><p>信息只能单向传送为单工；信息能双向传送但不能同时双向传送称为半双工，信息能够同时双向传送则称为全双工；</p><ul><li>基本实现原理</li></ul><p>WebSocket协议基于TCP协议实现，客户端和服务器只需要做一个握手的动作之后，形成了一条基于客户端和服务器之间的快速通道，之后客户端与服务端之间便可以进行多次数据帧双向传输；这样实现的目的是客户端和服务器进行频繁双向通信时，可以使服务器避免频繁创建HTTP连接，节约资源，提高工作效率和资源利用率。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> springboot </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> websocket </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>springboot之-MatrixVariable注解使用</title>
       <link href="posts/80aa.html"/>
       <url>posts/80aa.html</url>

@@ -6,7 +6,7 @@
   <link href="https://www.colorfo.top/atom.xml" rel="self"/>
   
   <link href="https://www.colorfo.top/"/>
-  <updated>2021-07-24T14:53:39.425Z</updated>
+  <updated>2021-07-25T04:09:32.149Z</updated>
   <id>https://www.colorfo.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>springboot集成websocket实现聊天室</title>
+    <link href="https://www.colorfo.top/posts/3a35.html"/>
+    <id>https://www.colorfo.top/posts/3a35.html</id>
+    <published>2021-07-25T04:04:39.000Z</published>
+    <updated>2021-07-25T04:09:32.149Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;websocket简介&quot;&gt;&lt;a href=&quot;#websocket简介&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="springboot" scheme="https://www.colorfo.top/categories/springboot/"/>
+    
+    
+    <category term="websocket" scheme="https://www.colorfo.top/tags/websocket/"/>
+    
+  </entry>
   
   <entry>
     <title>springboot之-MatrixVariable注解使用</title>

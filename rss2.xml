@@ -15,8 +15,35 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于java后端的学习</description>
-    <pubDate>Sat, 24 Jul 2021 14:53:39 GMT</pubDate>
+    <pubDate>Sun, 25 Jul 2021 04:09:32 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>springboot集成websocket实现聊天室</title>
+      <link>https://www.colorfo.top/posts/3a35.html</link>
+      <guid>https://www.colorfo.top/posts/3a35.html</guid>
+      <pubDate>Sun, 25 Jul 2021 04:04:39 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;websocket简介&quot;&gt;&lt;a href=&quot;#websocket简介&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.colorfo.top/categories/springboot/">springboot</category>
+      
+      
+      <category domain="https://www.colorfo.top/tags/websocket/">websocket</category>
+      
+      
+      <comments>https://www.colorfo.top/posts/3a35.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>springboot之-MatrixVariable注解使用</title>
