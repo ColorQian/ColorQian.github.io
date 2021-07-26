@@ -15,8 +15,33 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于java后端的学习</description>
-    <pubDate>Sun, 25 Jul 2021 13:30:24 GMT</pubDate>
+    <pubDate>Mon, 26 Jul 2021 13:52:39 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Interceptor拦截器的使用</title>
+      <link>https://www.colorfo.top/posts/ce45.html</link>
+      <guid>https://www.colorfo.top/posts/ce45.html</guid>
+      <pubDate>Mon, 26 Jul 2021 13:43:47 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;springboot项目中拦截器的使用&quot;&gt;&lt;a href=&quot;#springboot项目中拦截器的使用&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://www.colorfo.top/tags/Interceptor/">Interceptor</category>
+      
+      
+      <comments>https://www.colorfo.top/posts/ce45.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>springboot集成websocket实现聊天室的index.jsp代码</title>
