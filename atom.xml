@@ -6,7 +6,7 @@
   <link href="https://www.colorfo.top/atom.xml" rel="self"/>
   
   <link href="https://www.colorfo.top/"/>
-  <updated>2021-07-26T14:37:16.414Z</updated>
+  <updated>2021-07-27T08:14:00.946Z</updated>
   <id>https://www.colorfo.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SpringBoot文件上传</title>
+    <link href="https://www.colorfo.top/posts/c59d.html"/>
+    <id>https://www.colorfo.top/posts/c59d.html</id>
+    <published>2021-07-27T07:56:20.000Z</published>
+    <updated>2021-07-27T08:14:00.946Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="springboot" scheme="https://www.colorfo.top/categories/springboot/"/>
+    
+    
+    <category term="文件上传" scheme="https://www.colorfo.top/tags/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>Interceptor拦截器的使用</title>
