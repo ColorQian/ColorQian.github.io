@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>springboot定制化组件的方式</title>
+      <link href="posts/4e7c.html"/>
+      <url>posts/4e7c.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="定制化组件的常见方式"><a href="#定制化组件的常见方式" class="headerlink" title="定制化组件的常见方式"></a>定制化组件的常见方式</h2><ul><li><p>修改配置文件；</p></li><li><p><strong>xxxxxCustomizer；</strong></p></li><li><p><strong>编写自定义的配置类   xxxConfiguration；+</strong> <strong>@Bean替换、增加容器中默认组件；视图解析器</strong> </p></li><li><p><strong>Web应用 编写一个配置类实现</strong> <strong>WebMvcConfigurer 即可定制化web功能；(+ @Bean给容器中再扩展一些组件,可选的)</strong></p></li></ul><pre><code>@Configurationpublic class AdminWebConfig implements WebMvcConfigurer{}</code></pre><ul><li><p>@EnableWebMvc + WebMvcConfigurer —— @Bean  可以全面接管SpringMVC，所有规则全部自己重新配置； </p><p>实现定制和扩展功能</p><ul><li><p>原理</p></li><li><p> 1、WebMvcAutoConfiguration  默认的SpringMVC的自动配置功能类。静态资源、欢迎页…..</p></li><li><p>2、一旦使用 @EnableWebMvc 会 @Import(DelegatingWebMvcConfiguration.<strong>class</strong>)</p></li><li><p>3、<strong>DelegatingWebMvcConfiguration</strong> 的 作用，只保证SpringMVC最基本的使用</p><ul><li><p>把所有系统中的 WebMvcConfigurer 拿过来。所有功能的定制都是这些 WebMvcConfigurer  合起来一起生效</p></li><li><p>自动配置了一些非常底层的组件。<strong>RequestMappingHandlerMapping</strong>、这些组件依赖的组件都是从容器中获取</p><ul><li> <strong>public class</strong> DelegatingWebMvcConfiguration <strong>extends</strong> <strong>WebMvcConfigurationSupport</strong></li></ul></li></ul></li><li><p>4、<strong>WebMvcAutoConfiguration</strong> 里面的配置要能生效 必须  @ConditionalOnMissingBean(<strong>WebMvcConfigurationSupport</strong>.<strong>class</strong>)</p></li><li><p>5、@EnableWebMvc  导致了 <strong>WebMvcAutoConfiguration  没有生效。</strong></p></li></ul></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> springboot定制化组件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>SpringBoot文件上传</title>
       <link href="posts/c59d.html"/>
       <url>posts/c59d.html</url>

@@ -15,8 +15,33 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于java后端的学习</description>
-    <pubDate>Tue, 27 Jul 2021 08:14:00 GMT</pubDate>
+    <pubDate>Tue, 27 Jul 2021 12:16:18 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>springboot定制化组件的方式</title>
+      <link>https://www.colorfo.top/posts/4e7c.html</link>
+      <guid>https://www.colorfo.top/posts/4e7c.html</guid>
+      <pubDate>Tue, 27 Jul 2021 11:58:08 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;定制化组件的常见方式&quot;&gt;&lt;a href=&quot;#定制化组件的常见方式&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://www.colorfo.top/tags/springboot%E5%AE%9A%E5%88%B6%E5%8C%96%E7%BB%84%E4%BB%B6/">springboot定制化组件</category>
+      
+      
+      <comments>https://www.colorfo.top/posts/4e7c.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>SpringBoot文件上传</title>
