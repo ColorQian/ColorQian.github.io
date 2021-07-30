@@ -15,11 +15,11 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于java后端的学习</description>
-    <pubDate>Fri, 30 Jul 2021 14:34:51 GMT</pubDate>
+    <pubDate>Fri, 30 Jul 2021 14:40:01 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
-      <title>git、github的使用</title>
+      <title>git和github的使用</title>
       <link>https://www.colorfo.top/posts/ec43.html</link>
       <guid>https://www.colorfo.top/posts/ec43.html</guid>
       <pubDate>Fri, 30 Jul 2021 08:42:22 GMT</pubDate>
