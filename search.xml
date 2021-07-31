@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>github高效搜索项目</title>
+      <link href="posts/2a1b.html"/>
+      <url>posts/2a1b.html</url>
+      
+        <content type="html"><![CDATA[<ul><li><p>利用项目名(仓库名)</p><p>例如<code>in:name spring boot</code></p></li></ul><ul><li><p>利用项目名+stars</p><p><code>in:name spring boot stars:&gt;1000</code></p></li></ul><ul><li><p>利用项目名+stars+forks</p><p><code>in:name spring boot stars:&gt;1000 forks:&gt;100</code></p></li></ul><ul><li><p>利用readme</p><p><code>in:readme springboot</code></p></li></ul><ul><li><p>利用readme+stars</p><p><code>in:readme springboot stars:&gt;1000</code></p></li></ul><ul><li><p>利用description</p><p><code>in:description 微服务</code></p></li></ul><ul><li><p>利用description + language</p><p><code>in:description 微服务 language:java</code>  </p></li></ul><ul><li><p>利用description + language+日期</p><p><code>in:description 微服务 language:java pushed:&gt;2019-9-9</code>  </p></li></ul><ul><li>点进去查看项目的：描述利用了那些技术，代码结构、最新push日期、火热程度等，查看项目的readme文档</li><li>把github用起来，多去github看开源项目</li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> github搜索 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>git和github的使用</title>
       <link href="posts/ec43.html"/>
       <url>posts/ec43.html</url>
@@ -245,6 +264,19 @@
     
     <entry>
       <title>我的第一篇博客文章</title>
+      <link href="posts/3d22.html"/>
+      <url>posts/3d22.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>姓名：钱佳乐<span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><br>来自南京理工大学<br>你可以通过邮箱联系我：<a href="mailto:qjl@njust.edu.cn">qjl@njust.edu.cn</a></p><hr><h2 id="关于这个博客网站"><a href="#关于这个博客网站" class="headerlink" title="关于这个博客网站"></a>关于这个博客网站</h2><p>网站名：”<a href="http://colorqian.gitee.io&quot;/">http://colorqian.gitee.io"</a><br>我将会不定期的在这个网站上发布一些关于java的文章</p><hr><h2 id="技术支持"><a href="#技术支持" class="headerlink" title="技术支持"></a>技术支持</h2><p>程序羊</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的第一篇博客文章22</title>
       <link href="posts/3d22.html"/>
       <url>posts/3d22.html</url>
       
