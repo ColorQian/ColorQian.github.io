@@ -15,7 +15,7 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于java后端的学习</description>
-    <pubDate>Sun, 01 Aug 2021 13:49:03 GMT</pubDate>
+    <pubDate>Sun, 01 Aug 2021 14:47:50 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -41,6 +41,8 @@
       <category domain="https://www.colorfo.top/tags/%E6%95%B0%E7%BB%84/">数组</category>
       
       <category domain="https://www.colorfo.top/tags/%E6%A0%88/">栈</category>
+      
+      <category domain="https://www.colorfo.top/tags/%E5%9B%9E%E6%96%87/">回文</category>
       
       
       <comments>https://www.colorfo.top/posts/c93a.html#disqus_thread</comments>
