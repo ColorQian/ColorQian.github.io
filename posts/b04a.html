@@ -423,7 +423,7 @@
                 
                 <div class="info-break-policy">
                     <i class="far fa-clock fa-fw"></i>阅读时长:&nbsp;&nbsp;
-                    5 分
+                    6 分
                 </div>
                 
 
@@ -640,6 +640,7 @@
 </code></pre>
 </li>
 </ul>
+<p>​       对于实现最小值队列问题，可以先将队列使用栈来实现，然后就将问题转换为最小值栈，这个问题出现在 编程之美：3.7。</p>
 <h1 id="4-用栈实现括号的匹配（Easy）"><a href="#4-用栈实现括号的匹配（Easy）" class="headerlink" title="4. 用栈实现括号的匹配（Easy）"></a>4. 用栈实现括号的匹配（Easy）</h1><p><a target="_blank" rel="noopener" href="https://leetcode-cn.com/problems/valid-parentheses/description/">力扣</a></p>
 <pre class=" language-java"><code class="language-java">case1<span class="token operator">:</span>
 Input<span class="token operator">:</span><span class="token string">"()[]{}"</span>
@@ -683,7 +684,7 @@ Output <span class="token operator">:</span> <span class="token boolean">true</s
                 <span class="token comment" spellcheck="true">//此时弹栈拿出括号的坐半部分left</span>
                 <span class="token keyword">char</span> left <span class="token operator">=</span> stack<span class="token punctuation">.</span><span class="token function">pop</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
 
-                <span class="token comment" spellcheck="true">//一下三个条件说明，在弹栈得到的left时,括号右半部分匹配不上，就返回false;</span>
+                <span class="token comment" spellcheck="true">//以下三个条件说明，在弹栈得到的left时,括号右半部分匹配不上，就返回false;</span>
                 <span class="token keyword">boolean</span> b1 <span class="token operator">=</span> left <span class="token operator">==</span> <span class="token string">'('</span> <span class="token operator">&amp;&amp;</span> c <span class="token operator">!=</span> <span class="token string">')'</span><span class="token punctuation">;</span>
                 <span class="token keyword">boolean</span> b2 <span class="token operator">=</span> left <span class="token operator">==</span> <span class="token string">'{'</span> <span class="token operator">&amp;&amp;</span> c <span class="token operator">!=</span> <span class="token string">'}'</span><span class="token punctuation">;</span>
                 <span class="token keyword">boolean</span> b3 <span class="token operator">=</span> left <span class="token operator">==</span> <span class="token string">'['</span> <span class="token operator">&amp;&amp;</span> c <span class="token operator">!=</span> <span class="token string">']'</span><span class="token punctuation">;</span>
@@ -1514,7 +1515,7 @@ Output <span class="token operator">:</span> <span class="token boolean">true</s
             <br>
             
                 &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                        class="white-color">9.8k</span>
+                        class="white-color">9.9k</span>
             
             
             
