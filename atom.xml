@@ -6,7 +6,7 @@
   <link href="https://www.colorfo.top/atom.xml" rel="self"/>
   
   <link href="https://www.colorfo.top/"/>
-  <updated>2021-08-02T14:00:13.533Z</updated>
+  <updated>2021-08-03T12:52:23.229Z</updated>
   <id>https://www.colorfo.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>栈和队列刷题笔记</title>
+    <link href="https://www.colorfo.top/posts/f354.html"/>
+    <id>https://www.colorfo.top/posts/f354.html</id>
+    <published>2021-08-03T12:36:20.000Z</published>
+    <updated>2021-08-03T12:52:23.229Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-用一个栈实现另一个栈的排序（&quot;&gt;&lt;a href=&quot;#1-用一个栈实现另一个栈的排序（&quot; class=&quot;headerlink&quot; title=&quot;1.用一个栈实现另一个栈的排序（)&quot;&gt;&lt;/a&gt;1.用一个栈实现另一个栈的排序（&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="数据结构" scheme="https://www.colorfo.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="栈" scheme="https://www.colorfo.top/tags/%E6%A0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>Leetcode题解-栈和队列</title>
