@@ -498,6 +498,10 @@
     <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
 </code></pre>
+<br>
+
+<br>
+
 <h1 id="2-数组中元素与下一个比它大的元素之间的距离"><a href="#2-数组中元素与下一个比它大的元素之间的距离" class="headerlink" title="2.数组中元素与下一个比它大的元素之间的距离"></a>2.数组中元素与下一个比它大的元素之间的距离</h1><p><a target="_blank" rel="noopener" href="https://leetcode-cn.com/problems/daily-temperatures/description/">力扣</a>（Medium）</p>
 <pre class=" language-java"><code class="language-java">Input<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token number">73</span><span class="token punctuation">,</span> <span class="token number">74</span><span class="token punctuation">,</span> <span class="token number">75</span><span class="token punctuation">,</span> <span class="token number">71</span><span class="token punctuation">,</span> <span class="token number">69</span><span class="token punctuation">,</span> <span class="token number">72</span><span class="token punctuation">,</span> <span class="token number">76</span><span class="token punctuation">,</span> <span class="token number">73</span><span class="token punctuation">]</span>
 Output<span class="token operator">:</span> <span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">4</span><span class="token punctuation">,</span> <span class="token number">2</span><span class="token punctuation">,</span> <span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">]</span>
@@ -540,6 +544,10 @@ Output<span class="token operator">:</span> <span class="token punctuation">[</s
     <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
 </code></pre>
+<br>
+
+
+
 <ul>
 <li><p>方法二：遍历数组时，使用<strong>栈</strong>把数组的下标存起来,<strong>时间复杂度O(N)</strong></p>
 </li>
@@ -548,7 +556,8 @@ Output<span class="token operator">:</span> <span class="token punctuation">[</s
  *     1.用dist数组存放距离当前位置的距离，用stack存放原始数组temperature的下标
  *     2.用cur指向temperature数组的下标，pre指向stack栈的栈顶元素
  *
- *     3.如果stack不为空，并且当前遍历的数temperature[cur] 大于 栈顶对应的数temperature[stack.peek()]，就将stack        的栈顶元素弹出，存到pre变量中，cur - pre即为与pre的距离dist[pre].之后再将cur压入stack中。
+ *     3.如果stack不为空，并且当前遍历的数temperature[cur] 大于 栈顶对应的数temperature[stack.peek()]，
+ *     就将stack的栈顶元素弹出，存到pre变量中，cur - pre即为与pre的距离dist[pre].之后再将cur压入stack中。
  *     4.如果stack为空，直接将cur压入stack中。
  *
  */</span>
