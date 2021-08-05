@@ -15,8 +15,40 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于java后端的学习</description>
-    <pubDate>Wed, 04 Aug 2021 07:35:45 GMT</pubDate>
+    <pubDate>Thu, 05 Aug 2021 07:13:16 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>单链表的增删改查和插入</title>
+      <link>https://www.colorfo.top/posts/64b9.html</link>
+      <guid>https://www.colorfo.top/posts/64b9.html</guid>
+      <pubDate>Thu, 05 Aug 2021 07:07:50 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;ul&gt;
+&lt;li&gt;本篇博文属于单链表的入门案例，包含单链表的一些基础操作:增删改查、插入&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1.首先创建一个Node结点类&lt;/p&gt;
+&lt;pre class=&quot; language-java&quot;&gt;&lt;code</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.colorfo.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/">数据结构</category>
+      
+      
+      <category domain="https://www.colorfo.top/tags/%E5%8D%95%E9%93%BE%E8%A1%A8/">单链表</category>
+      
+      
+      <comments>https://www.colorfo.top/posts/64b9.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>栈和队列刷题笔记</title>

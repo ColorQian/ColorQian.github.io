@@ -6,7 +6,7 @@
   <link href="https://www.colorfo.top/atom.xml" rel="self"/>
   
   <link href="https://www.colorfo.top/"/>
-  <updated>2021-08-04T07:35:45.586Z</updated>
+  <updated>2021-08-05T07:13:16.996Z</updated>
   <id>https://www.colorfo.top/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>单链表的增删改查和插入</title>
+    <link href="https://www.colorfo.top/posts/64b9.html"/>
+    <id>https://www.colorfo.top/posts/64b9.html</id>
+    <published>2021-08-05T07:07:50.000Z</published>
+    <updated>2021-08-05T07:13:16.996Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;本篇博文属于单链表的入门案例，包含单链表的一些基础操作:增删改查、插入&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1.首先创建一个Node结点类&lt;/p&gt;
+&lt;pre class=&quot; language-java&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="数据结构" scheme="https://www.colorfo.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="单链表" scheme="https://www.colorfo.top/tags/%E5%8D%95%E9%93%BE%E8%A1%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>栈和队列刷题笔记</title>
