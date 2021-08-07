@@ -6,7 +6,7 @@
   <link href="https://www.colorfo.top/atom.xml" rel="self"/>
   
   <link href="https://www.colorfo.top/"/>
-  <updated>2021-08-05T07:13:27.881Z</updated>
+  <updated>2021-08-07T08:46:12.198Z</updated>
   <id>https://www.colorfo.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>单向环形链表之约瑟夫环</title>
+    <link href="https://www.colorfo.top/posts/d2de.html"/>
+    <id>https://www.colorfo.top/posts/d2de.html</id>
+    <published>2021-08-07T08:38:52.000Z</published>
+    <updated>2021-08-07T08:46:12.198Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Josephus问题:&lt;/p&gt;
+&lt;p&gt;约瑟夫问题为：设编号为1，2，… n的n个人围坐一圈，约定编号为k（1&amp;lt;=k&amp;lt;=n）的人从1开始报数，数到m</summary>
+        
+      
+    
+    
+    
+    <category term="数据结构" scheme="https://www.colorfo.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="约瑟夫环" scheme="https://www.colorfo.top/tags/%E7%BA%A6%E7%91%9F%E5%A4%AB%E7%8E%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>单链表的增删改查和插入</title>
