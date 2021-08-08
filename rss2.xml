@@ -15,7 +15,7 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>专注于java后端的学习</description>
-    <pubDate>Sun, 08 Aug 2021 14:15:42 GMT</pubDate>
+    <pubDate>Sun, 08 Aug 2021 14:18:55 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -28,8 +28,7 @@
         
           
           
-      <description>&lt;p&gt;[toc]&lt;/p&gt;
-&lt;h1 id=&quot;1-在单链表中删除倒数第K个节点&quot;&gt;&lt;a href=&quot;#1-在单链表中删除倒数第K个节点&quot; class=&quot;headerlink&quot;</description>
+      <description>&lt;h1 id=&quot;1-在单链表中删除倒数第K个节点&quot;&gt;&lt;a href=&quot;#1-在单链表中删除倒数第K个节点&quot; class=&quot;headerlink&quot;</description>
           
         
       

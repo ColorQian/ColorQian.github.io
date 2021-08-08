@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.colorfo.top/posts/3568.html</loc>
+    <loc>https://www.colorfo.top/posts/d2de.html</loc>
     
     <lastmod>2021-08-08</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.colorfo.top/posts/d2de.html</loc>
+    <loc>https://www.colorfo.top/posts/3568.html</loc>
     
-    <lastmod>2021-08-07</lastmod>
+    <lastmod>2021-08-08</lastmod>
     
   </url>
   
@@ -186,13 +186,6 @@
   </url>
   
   <url>
-    <loc>https://www.colorfo.top/tags/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</loc>
-    <lastmod>2021-08-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.colorfo.top/tags/%E6%A0%88/</loc>
     <lastmod>2021-08-08</lastmod>
     <changefreq>daily</changefreq>
@@ -214,6 +207,13 @@
   </url>
   
   <url>
+    <loc>https://www.colorfo.top/tags/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</loc>
+    <lastmod>2021-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.colorfo.top/tags/github%E6%90%9C%E7%B4%A2/</loc>
     <lastmod>2021-08-08</lastmod>
     <changefreq>daily</changefreq>
@@ -229,6 +229,13 @@
   
   <url>
     <loc>https://www.colorfo.top/tags/github/</loc>
+    <lastmod>2021-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.colorfo.top/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2021-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -284,7 +291,7 @@
   </url>
   
   <url>
-    <loc>https://www.colorfo.top/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://www.colorfo.top/tags/websocket/</loc>
     <lastmod>2021-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -305,21 +312,14 @@
   </url>
   
   <url>
-    <loc>https://www.colorfo.top/tags/%E5%8D%95%E9%93%BE%E8%A1%A8/</loc>
-    <lastmod>2021-08-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.colorfo.top/tags/websocket/</loc>
-    <lastmod>2021-08-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.colorfo.top/tags/%E7%BA%A6%E7%91%9F%E5%A4%AB%E7%8E%AF/</loc>
+    <lastmod>2021-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.colorfo.top/tags/%E5%8D%95%E9%93%BE%E8%A1%A8/</loc>
     <lastmod>2021-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -335,14 +335,14 @@
 
   
   <url>
-    <loc>https://www.colorfo.top/categories/springboot/</loc>
+    <loc>https://www.colorfo.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2021-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.colorfo.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <loc>https://www.colorfo.top/categories/springboot/</loc>
     <lastmod>2021-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
