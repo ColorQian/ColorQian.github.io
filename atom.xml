@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>color</title>
   <icon>https://www.colorfo.top/icon.png</icon>
-  <subtitle>一万年太久,只争朝夕</subtitle>
+  
   <link href="https://www.colorfo.top/atom.xml" rel="self"/>
   
   <link href="https://www.colorfo.top/"/>
