@@ -116,7 +116,7 @@
 &lt;/ul&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;1.首先创建一个Node结点类&lt;/p&gt;
-&lt;pre class=&quot; language-java&quot;&gt;&lt;code</description>
+&lt;figure class=&quot;highlight</description>
           
         
       
@@ -405,8 +405,7 @@
         
           
           
-      <description>&lt;pre class=&quot; language-jsp&quot;&gt;&lt;code class=&quot;language-jsp&quot;&gt;&lt;%@ page contentType=&quot;text/html;charset=UTF-8&quot; language=&quot;java&quot; %&gt;
-&lt;!DOCTYPE</description>
+      <description>&lt;figure class=&quot;highlight jsp&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span</description>
           
         
       
