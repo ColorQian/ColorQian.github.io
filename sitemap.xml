@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.colorfo.top/posts/ae99.html</loc>
+    
+    <lastmod>2021-08-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.colorfo.top/link/index.html</loc>
     
     <lastmod>2021-08-11</lastmod>
@@ -38,13 +45,6 @@
   
   <url>
     <loc>https://www.colorfo.top/about/index.html</loc>
-    
-    <lastmod>2021-08-10</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.colorfo.top/posts/ae99.html</loc>
     
     <lastmod>2021-08-10</lastmod>
     
@@ -193,6 +193,13 @@
 
   
   <url>
+    <loc>https://www.colorfo.top/tags/Interceptor/</loc>
+    <lastmod>2021-08-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.colorfo.top/tags/%E6%A0%88/</loc>
     <lastmod>2021-08-11</lastmod>
     <changefreq>daily</changefreq>
@@ -208,13 +215,6 @@
   
   <url>
     <loc>https://www.colorfo.top/tags/LeetCode/</loc>
-    <lastmod>2021-08-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.colorfo.top/tags/Interceptor/</loc>
     <lastmod>2021-08-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
