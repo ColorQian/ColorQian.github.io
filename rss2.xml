@@ -15,8 +15,35 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个记录学习经历与分享技术的地方!</description>
-    <pubDate>Thu, 12 Aug 2021 12:56:04 GMT</pubDate>
+    <pubDate>Sun, 15 Aug 2021 08:31:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>KMP算法匹配字符串</title>
+      <link>https://www.colorfo.top/posts/c86b.html</link>
+      <guid>https://www.colorfo.top/posts/c86b.html</guid>
+      <pubDate>Sun, 15 Aug 2021 08:13:07 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;1-题目&quot;&gt;&lt;a href=&quot;#1-题目&quot; class=&quot;headerlink&quot; title=&quot;1.题目&quot;&gt;&lt;/a&gt;1.题目&lt;/h2&gt;&lt;p&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://www.colorfo.top/tags/KMP%E7%AE%97%E6%B3%95/">KMP算法</category>
+      
+      <category domain="https://www.colorfo.top/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/">字符串</category>
+      
+      
+      <comments>https://www.colorfo.top/posts/c86b.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>数组刷题笔记</title>
@@ -559,29 +586,6 @@
       
       
       <comments>https://www.colorfo.top/posts/be0d.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>我的第一篇博客文章</title>
-      <link>https://www.colorfo.top/posts/3d22.html</link>
-      <guid>https://www.colorfo.top/posts/3d22.html</guid>
-      <pubDate>Thu, 15 Apr 2021 08:12:23 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;关于我&quot;&gt;&lt;a href=&quot;#关于我&quot; class=&quot;headerlink&quot; title=&quot;关于我&quot;&gt;&lt;/a&gt;关于我&lt;/h2&gt;&lt;p&gt;姓名：钱佳乐&lt;span class=&quot;github-emoji&quot;&gt;&lt;span&gt;😄&lt;/span&gt;&lt;img</description>
-          
-        
-      
-      
-      
-      
-      
-      
-      <comments>https://www.colorfo.top/posts/3d22.html#disqus_thread</comments>
       
     </item>
     
