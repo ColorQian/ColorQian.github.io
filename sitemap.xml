@@ -249,14 +249,14 @@
   </url>
   
   <url>
-    <loc>https://www.colorfo.top/tags/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</loc>
+    <loc>https://www.colorfo.top/tags/github%E6%90%9C%E7%B4%A2/</loc>
     <lastmod>2021-08-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.colorfo.top/tags/github%E6%90%9C%E7%B4%A2/</loc>
+    <loc>https://www.colorfo.top/tags/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</loc>
     <lastmod>2021-08-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -284,6 +284,13 @@
   </url>
   
   <url>
+    <loc>https://www.colorfo.top/tags/MatrixVariable/</loc>
+    <lastmod>2021-08-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.colorfo.top/tags/markdown/</loc>
     <lastmod>2021-08-15</lastmod>
     <changefreq>daily</changefreq>
@@ -292,13 +299,6 @@
   
   <url>
     <loc>https://www.colorfo.top/tags/front-matter/</loc>
-    <lastmod>2021-08-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.colorfo.top/tags/MatrixVariable/</loc>
     <lastmod>2021-08-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -340,6 +340,13 @@
   </url>
   
   <url>
+    <loc>https://www.colorfo.top/tags/%E9%93%BE%E8%A1%A8/</loc>
+    <lastmod>2021-08-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.colorfo.top/tags/%E6%95%B0%E7%BB%84/</loc>
     <lastmod>2021-08-15</lastmod>
     <changefreq>daily</changefreq>
@@ -348,13 +355,6 @@
   
   <url>
     <loc>https://www.colorfo.top/tags/%E5%9B%9E%E6%96%87/</loc>
-    <lastmod>2021-08-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.colorfo.top/tags/%E9%93%BE%E8%A1%A8/</loc>
     <lastmod>2021-08-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
