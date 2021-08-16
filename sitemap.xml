@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.colorfo.top/posts/b04a.html</loc>
+    <loc>https://www.colorfo.top/posts/f354.html</loc>
     
     <lastmod>2021-08-16</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.colorfo.top/posts/f354.html</loc>
+    <loc>https://www.colorfo.top/posts/b04a.html</loc>
     
     <lastmod>2021-08-16</lastmod>
     
@@ -277,6 +277,13 @@
   </url>
   
   <url>
+    <loc>https://www.colorfo.top/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.colorfo.top/tags/markdown/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
@@ -292,20 +299,6 @@
   
   <url>
     <loc>https://www.colorfo.top/tags/MatrixVariable/</loc>
-    <lastmod>2021-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.colorfo.top/tags/%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2021-08-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.colorfo.top/tags/springboot%E5%AE%9A%E5%88%B6%E5%8C%96%E7%BB%84%E4%BB%B6/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -333,7 +326,7 @@
   </url>
   
   <url>
-    <loc>https://www.colorfo.top/tags/websocket/</loc>
+    <loc>https://www.colorfo.top/tags/springboot%E5%AE%9A%E5%88%B6%E5%8C%96%E7%BB%84%E4%BB%B6/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -348,6 +341,13 @@
   
   <url>
     <loc>https://www.colorfo.top/tags/%E5%9B%9E%E6%96%87/</loc>
+    <lastmod>2021-08-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.colorfo.top/tags/websocket/</loc>
     <lastmod>2021-08-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
