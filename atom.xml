@@ -6,7 +6,7 @@
   <link href="https://www.colorfo.top/atom.xml" rel="self"/>
   
   <link href="https://www.colorfo.top/"/>
-  <updated>2021-08-20T08:13:02.098Z</updated>
+  <updated>2021-08-21T13:12:50.096Z</updated>
   <id>https://www.colorfo.top/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>二叉树的层序遍历</title>
+    <link href="https://www.colorfo.top/posts/bd66.html"/>
+    <id>https://www.colorfo.top/posts/bd66.html</id>
+    <published>2021-08-21T12:16:58.000Z</published>
+    <updated>2021-08-21T13:12:50.096Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-二叉树的层序遍历&quot;&gt;&lt;a href=&quot;#1-二叉树的层序遍历&quot; class=&quot;headerlink&quot; title=&quot;1.二叉树的层序遍历&quot;&gt;&lt;/a&gt;1.二叉树的层序遍历&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="数据结构" scheme="https://www.colorfo.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="二叉树" scheme="https://www.colorfo.top/tags/%E4%BA%8C%E5%8F%89%E6%A0%91/"/>
+    
+    <category term="层序遍历" scheme="https://www.colorfo.top/tags/%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>用递归和非递归的方式实现二叉树的遍历</title>
     <link href="https://www.colorfo.top/posts/a2eb.html"/>
     <id>https://www.colorfo.top/posts/a2eb.html</id>
     <published>2021-08-20T07:55:12.000Z</published>
-    <updated>2021-08-20T08:13:02.098Z</updated>
+    <updated>2021-08-20T08:13:23.224Z</updated>
     
     
       
@@ -515,34 +543,6 @@
     
     
     <category term="MatrixVariable" scheme="https://www.colorfo.top/tags/MatrixVariable/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>markdown语法的使用、博文标题的使用</title>
-    <link href="https://www.colorfo.top/posts/9892.html"/>
-    <id>https://www.colorfo.top/posts/9892.html</id>
-    <published>2021-06-19T07:40:00.000Z</published>
-    <updated>2021-08-01T08:18:17.177Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;[TOC]&lt;/p&gt;
-&lt;h1 id=&quot;关于博文的Front-matter的使用&quot;&gt;&lt;a href=&quot;#关于博文的Front-matter的使用&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Hexo" scheme="https://www.colorfo.top/categories/Hexo/"/>
-    
-    
-    <category term="markdown" scheme="https://www.colorfo.top/tags/markdown/"/>
-    
-    <category term="front-matter" scheme="https://www.colorfo.top/tags/front-matter/"/>
     
   </entry>
   
