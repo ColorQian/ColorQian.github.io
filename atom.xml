@@ -6,7 +6,7 @@
   <link href="https://www.colorfo.top/atom.xml" rel="self"/>
   
   <link href="https://www.colorfo.top/"/>
-  <updated>2021-09-06T11:51:48.617Z</updated>
+  <updated>2021-09-11T07:40:44.841Z</updated>
   <id>https://www.colorfo.top/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>贪心算法刷题笔记①</title>
+    <link href="https://www.colorfo.top/posts/2a28.html"/>
+    <id>https://www.colorfo.top/posts/2a28.html</id>
+    <published>2021-09-11T05:16:43.000Z</published>
+    <updated>2021-09-11T07:40:44.841Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-分发饼干&quot;&gt;&lt;a href=&quot;#1-分发饼干&quot; class=&quot;headerlink&quot; title=&quot;1.分发饼干&quot;&gt;&lt;/a&gt;1.分发饼干&lt;/h1&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="https://www.colorfo.top/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="贪心" scheme="https://www.colorfo.top/tags/%E8%B4%AA%E5%BF%83/"/>
+    
+  </entry>
+  
+  <entry>
     <title>回溯算法刷题笔记②</title>
     <link href="https://www.colorfo.top/posts/e46.html"/>
     <id>https://www.colorfo.top/posts/e46.html</id>
     <published>2021-09-06T09:04:44.000Z</published>
-    <updated>2021-09-06T11:51:48.617Z</updated>
+    <updated>2021-09-06T11:52:09.036Z</updated>
     
     
       
@@ -523,29 +548,6 @@
     <category term="mybatis-plus" scheme="https://www.colorfo.top/tags/mybatis-plus/"/>
     
     <category term="分页" scheme="https://www.colorfo.top/tags/%E5%88%86%E9%A1%B5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>springboot定制化组件的方式</title>
-    <link href="https://www.colorfo.top/posts/4e7c.html"/>
-    <id>https://www.colorfo.top/posts/4e7c.html</id>
-    <published>2021-07-27T11:58:08.000Z</published>
-    <updated>2021-07-27T12:17:50.877Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;定制化组件的常见方式&quot;&gt;&lt;a href=&quot;#定制化组件的常见方式&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="springboot定制化组件" scheme="https://www.colorfo.top/tags/springboot%E5%AE%9A%E5%88%B6%E5%8C%96%E7%BB%84%E4%BB%B6/"/>
     
   </entry>
   
