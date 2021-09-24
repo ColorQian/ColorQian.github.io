@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>HTTP基础①</title>
+      <link href="/posts/942d.html"/>
+      <url>/posts/942d.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="1-什么是cookie"><a href="#1-什么是cookie" class="headerlink" title="1.什么是cookie"></a>1.什么是cookie</h1><p>Cookie技术通过在请求和响应报文中写入cookie信息来控制客户端的状态</p><ol><li>cookie会根据从服务器端发送的响应报文中的一个叫做Set-Cookie的首部字段信息，通知客户端保存cookie.</li><li>当下次客户端再向服务器端发送请求时，客户端会自动在请求报文中加入cookie值后发送出去</li><li>服务器端发现客户端发来的cookie后，会检查是哪一个客户端发送过来的连接请求，然后得到之前的状态信息</li></ol><p><img src="https://gitee.com/ColorQian/cloudimages/raw/master/img/20210922163505.png" alt="无cookie的请求"></p><p><img src="https://gitee.com/ColorQian/cloudimages/raw/master/img/20210922163858.png" alt="带有cookie的请求"></p><h1 id="2-HTTP报文"><a href="#2-HTTP报文" class="headerlink" title="2.HTTP报文"></a>2.HTTP报文</h1><p>HTTP报文的主体用于传输请求或响应的实体主体</p><p>通常，报文主体等于实体主体，只有当传输中进行编码操作时，实体主体的内容发生变化，才导致它和报文主体产生差异</p><h2 id="2-1请求和响应的报文首部"><a href="#2-1请求和响应的报文首部" class="headerlink" title="2.1请求和响应的报文首部"></a>2.1请求和响应的报文首部</h2><p>请求报文和响应报文的首部内容有以下数据组成：</p><ol><li><p>请求行</p><p>包含请求方法，请求URI,http版本</p></li><li><p>状态行</p><p>包含响应结果的状态码，原因短语，http版本</p></li><li><p>首部字段</p><p>包含请求和响应的各种条件，以及属性的各类首部</p><p>一般有4中首部，分别是：通用首部，请求首部，响应首部，实体首部</p></li><li><p>其他</p><p>可能包含http的RFC里未定义的首部(cookie等)</p></li></ol><br><h1 id="3-HTTP状态码"><a href="#3-HTTP状态码" class="headerlink" title="3.HTTP状态码"></a>3.HTTP状态码</h1><ul><li>状态码的作用是当客户端向服务器端发送请求时，描述返回的请求结果</li></ul><h2 id="3-1状态码的类别"><a href="#3-1状态码的类别" class="headerlink" title="3.1状态码的类别"></a>3.1状态码的类别</h2><table><thead><tr><th align="center"></th><th align="center">类别</th><th align="center">原因短语</th></tr></thead><tbody><tr><td align="center">1XX</td><td align="center">information(信息性状态码)</td><td align="center">接受的请求正在处理</td></tr><tr><td align="center">2XX</td><td align="center">Success(成功状态码)</td><td align="center">请求正常处理完毕</td></tr><tr><td align="center">3XX</td><td align="center">Redirection(重定向状态码)</td><td align="center">需要进行附加操作以完成请求</td></tr><tr><td align="center">4XX</td><td align="center">Client Error(客户端错误状态码)</td><td align="center">服务器无法处理请求</td></tr><tr><td align="center">5XX</td><td align="center">Server Error(服务器错误状态码)</td><td align="center">服务器处理请求出错</td></tr></tbody></table><br><h2 id="3-2常见状态码"><a href="#3-2常见状态码" class="headerlink" title="3.2常见状态码"></a>3.2常见状态码</h2><h3 id="2XX开头"><a href="#2XX开头" class="headerlink" title="2XX开头"></a>2XX开头</h3><ol><li><p>200 OK</p><p>表示从客户端发来的请求在服务器端被正常处理了</p></li><li><p>204 No Content</p><p>一般只需要从客户端往服务器发送信息，而对客户端不需要发送新信息内容的情况下使用</p></li><li><p>206 Partial Content</p><p>该状态码表示客户端进行了范围请求，而服务器成功执行了这部分的GET请求。响应报文中包含由</p><p>Content-Range指定范围的实体内容</p></li></ol><h3 id="3XX开头"><a href="#3XX开头" class="headerlink" title="3XX开头"></a>3XX开头</h3><ul><li>3XX响应结果表示浏览器需要执行某些特殊的处理以正确处理请求</li></ul><ol><li><p>301 Moved Permanently</p><p>永久性重定向。该状态码表示请求的资源已经被分配了新的URI,以后应使用资源现在所指的URI</p></li><li><p>302 Found</p><p>临时性重定向。该状态码表示请求的资源已被分配了新的URI,希望用户本次能使用新的URI访问</p></li><li><p>303 See Other</p><p>该状态码表示由于请求对应的资源存在着另一个URI,应使用GET方法定向获取请求资源</p></li></ol><h3 id="4XX开头"><a href="#4XX开头" class="headerlink" title="4XX开头"></a>4XX开头</h3><ul><li>4XX的响应结果表明客户端是发生错误的原因所在</li></ul><ol><li><p>400 Bad Request</p><p>该状态码表示请求报文中存在语法错误。当错误发生时，需要修改请求内容后再次发送请求</p></li><li><p>401 Unauthorized</p><p>该状态码表示发送的请求需要有通过HTTP认证的认证信息。另外，若之前已经进行过1次请求，</p><p>则表示用户认证失败</p></li><li><p>403 Forbidden</p><p>该状态码表明对请求资源的访问被服务器拒绝了。</p><p>未获得文件系统的访问授权，访问权限出现某些问题等，都可能是发生403的原因</p></li><li><p>404 Not Found</p><p>该状态码表明服务器上无法找到请求的资源。除此之外，也可以在服务器端拒绝请求且不想说明原因时使用</p></li></ol><h3 id="5XX开头"><a href="#5XX开头" class="headerlink" title="5XX开头"></a>5XX开头</h3><ul><li>5XX的响应结果表明服务器本身发生错误</li></ul><ol><li><p>500 Internal Server Error</p><p>该状态码表明服务器在执行请求过程中发生了错误。也有可能是Web应用存在的bug或某些临时的故障</p></li><li><p>503 Service Unavailable</p><p>该状态码表示服务器暂时处于超负载或停机维护状态，现在无法处理请求。</p><p>如果事先得知解除以上状况所需要的时间，最好写入Retry-After首部字段再返回给客户端。</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 图解HTTP </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> cookie </tag>
+            
+            <tag> http报文 </tag>
+            
+            <tag> http状态码 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>动态规划刷题笔记①</title>
       <link href="/posts/517c.html"/>
       <url>/posts/517c.html</url>

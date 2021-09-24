@@ -6,7 +6,7 @@
   <link href="https://www.colorfo.top/atom.xml" rel="self"/>
   
   <link href="https://www.colorfo.top/"/>
-  <updated>2021-09-22T06:38:16.259Z</updated>
+  <updated>2021-09-24T03:16:41.145Z</updated>
   <id>https://www.colorfo.top/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>HTTP基础①</title>
+    <link href="https://www.colorfo.top/posts/942d.html"/>
+    <id>https://www.colorfo.top/posts/942d.html</id>
+    <published>2021-09-24T03:15:00.000Z</published>
+    <updated>2021-09-24T03:16:41.145Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-什么是cookie&quot;&gt;&lt;a href=&quot;#1-什么是cookie&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="图解HTTP" scheme="https://www.colorfo.top/categories/%E5%9B%BE%E8%A7%A3HTTP/"/>
+    
+    
+    <category term="cookie" scheme="https://www.colorfo.top/tags/cookie/"/>
+    
+    <category term="http报文" scheme="https://www.colorfo.top/tags/http%E6%8A%A5%E6%96%87/"/>
+    
+    <category term="http状态码" scheme="https://www.colorfo.top/tags/http%E7%8A%B6%E6%80%81%E7%A0%81/"/>
+    
+  </entry>
+  
+  <entry>
     <title>动态规划刷题笔记①</title>
     <link href="https://www.colorfo.top/posts/517c.html"/>
     <id>https://www.colorfo.top/posts/517c.html</id>
     <published>2021-09-22T01:35:03.000Z</published>
-    <updated>2021-09-22T06:38:16.259Z</updated>
+    <updated>2021-09-22T06:38:37.840Z</updated>
     
     
       
@@ -514,36 +543,6 @@
     <category term="数组" scheme="https://www.colorfo.top/tags/%E6%95%B0%E7%BB%84/"/>
     
     <category term="回文" scheme="https://www.colorfo.top/tags/%E5%9B%9E%E6%96%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>github高效搜索项目</title>
-    <link href="https://www.colorfo.top/posts/2a1b.html"/>
-    <id>https://www.colorfo.top/posts/2a1b.html</id>
-    <published>2021-07-31T08:56:16.000Z</published>
-    <updated>2021-07-31T09:18:54.323Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;利用项目名(仓库名)&lt;/p&gt;
-&lt;p&gt;例如&lt;code&gt;in:name spring boot&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;利用项目名+stars&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;in:name spring boot</summary>
-        
-      
-    
-    
-    
-    
-    <category term="github搜索" scheme="https://www.colorfo.top/tags/github%E6%90%9C%E7%B4%A2/"/>
     
   </entry>
   
