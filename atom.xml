@@ -6,7 +6,7 @@
   <link href="https://www.colorfo.top/atom.xml" rel="self"/>
   
   <link href="https://www.colorfo.top/"/>
-  <updated>2021-10-23T09:22:32.449Z</updated>
+  <updated>2021-10-25T06:10:49.670Z</updated>
   <id>https://www.colorfo.top/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TCP/IP协议分层模型</title>
+    <link href="https://www.colorfo.top/posts/f45d.html"/>
+    <id>https://www.colorfo.top/posts/f45d.html</id>
+    <published>2021-10-25T06:08:56.000Z</published>
+    <updated>2021-10-25T06:10:49.670Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;TCP/IP分层模型：&lt;/p&gt;
+&lt;p&gt;硬件层、网卡层、互联网层、传输层、应用层&lt;/p&gt;
+&lt;h1 id=&quot;1-硬件层-物理层&quot;&gt;&lt;a href=&quot;#1-硬件层-物理层&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="图解TCP/IP" scheme="https://www.colorfo.top/categories/%E5%9B%BE%E8%A7%A3TCP-IP/"/>
+    
+    
+    <category term="TCP/IP" scheme="https://www.colorfo.top/tags/TCP-IP/"/>
+    
+    <category term="分层模型" scheme="https://www.colorfo.top/tags/%E5%88%86%E5%B1%82%E6%A8%A1%E5%9E%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>进程的基础知识</title>
@@ -523,33 +552,6 @@
     <category term="KMP算法" scheme="https://www.colorfo.top/tags/KMP%E7%AE%97%E6%B3%95/"/>
     
     <category term="字符串" scheme="https://www.colorfo.top/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数组刷题笔记</title>
-    <link href="https://www.colorfo.top/posts/7dec.html"/>
-    <id>https://www.colorfo.top/posts/7dec.html</id>
-    <published>2021-08-11T12:46:27.000Z</published>
-    <updated>2021-08-12T12:56:04.736Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;1-数组的二分查找&quot;&gt;&lt;a href=&quot;#1-数组的二分查找&quot; class=&quot;headerlink&quot; title=&quot;1.数组的二分查找&quot;&gt;&lt;/a&gt;1.数组的二分查找&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;题目&lt;/p&gt;
-&lt;p&gt;给定一个 n 个元素有序的（升序）整型数组</summary>
-        
-      
-    
-    
-    
-    <category term="数据结构" scheme="https://www.colorfo.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
-    
-    <category term="数组" scheme="https://www.colorfo.top/tags/%E6%95%B0%E7%BB%84/"/>
     
   </entry>
   
