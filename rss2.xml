@@ -15,8 +15,35 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个记录学习经历与分享技术的地方!</description>
-    <pubDate>Mon, 25 Oct 2021 06:10:49 GMT</pubDate>
+    <pubDate>Mon, 22 Nov 2021 14:36:34 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>线程的基础知识</title>
+      <link>https://www.colorfo.top/posts/ccfc.html</link>
+      <guid>https://www.colorfo.top/posts/ccfc.html</guid>
+      <pubDate>Mon, 22 Nov 2021 13:08:50 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;1-什么是线程？&quot;&gt;&lt;a href=&quot;#1-什么是线程？&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.colorfo.top/categories/%E5%9B%BE%E8%A7%A3%E7%B3%BB%E7%BB%9F/">图解系统</category>
+      
+      
+      <category domain="https://www.colorfo.top/tags/%E7%BA%BF%E7%A8%8B/">线程</category>
+      
+      
+      <comments>https://www.colorfo.top/posts/ccfc.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>TCP/IP协议分层模型</title>
@@ -567,33 +594,6 @@
       
       
       <comments>https://www.colorfo.top/posts/a2eb.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>KMP算法匹配字符串</title>
-      <link>https://www.colorfo.top/posts/c86b.html</link>
-      <guid>https://www.colorfo.top/posts/c86b.html</guid>
-      <pubDate>Sun, 15 Aug 2021 08:13:07 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h2 id=&quot;一、KMP算法匹配字符串&quot;&gt;&lt;a href=&quot;#一、KMP算法匹配字符串&quot; class=&quot;headerlink&quot; title=&quot;一、KMP算法匹配字符串&quot;&gt;&lt;/a&gt;一、KMP算法匹配字符串&lt;/h2&gt;&lt;h2 id=&quot;1-题目&quot;&gt;&lt;a href=&quot;#1-题目&quot;</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://www.colorfo.top/tags/KMP%E7%AE%97%E6%B3%95/">KMP算法</category>
-      
-      <category domain="https://www.colorfo.top/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/">字符串</category>
-      
-      
-      <comments>https://www.colorfo.top/posts/c86b.html#disqus_thread</comments>
       
     </item>
     

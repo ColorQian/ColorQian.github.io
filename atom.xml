@@ -6,7 +6,7 @@
   <link href="https://www.colorfo.top/atom.xml" rel="self"/>
   
   <link href="https://www.colorfo.top/"/>
-  <updated>2021-10-25T06:10:49.670Z</updated>
+  <updated>2021-11-22T14:36:34.215Z</updated>
   <id>https://www.colorfo.top/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>线程的基础知识</title>
+    <link href="https://www.colorfo.top/posts/ccfc.html"/>
+    <id>https://www.colorfo.top/posts/ccfc.html</id>
+    <published>2021-11-22T13:08:50.000Z</published>
+    <updated>2021-11-22T14:36:34.215Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;1-什么是线程？&quot;&gt;&lt;a href=&quot;#1-什么是线程？&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="图解系统" scheme="https://www.colorfo.top/categories/%E5%9B%BE%E8%A7%A3%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="线程" scheme="https://www.colorfo.top/tags/%E7%BA%BF%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
     <title>TCP/IP协议分层模型</title>
     <link href="https://www.colorfo.top/posts/f45d.html"/>
     <id>https://www.colorfo.top/posts/f45d.html</id>
     <published>2021-10-25T06:08:56.000Z</published>
-    <updated>2021-10-25T06:10:49.670Z</updated>
+    <updated>2021-10-25T06:11:23.370Z</updated>
     
     
       
@@ -527,31 +552,6 @@
     
     
     <category term="二叉树的遍历" scheme="https://www.colorfo.top/tags/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>KMP算法匹配字符串</title>
-    <link href="https://www.colorfo.top/posts/c86b.html"/>
-    <id>https://www.colorfo.top/posts/c86b.html</id>
-    <published>2021-08-15T08:13:07.000Z</published>
-    <updated>2021-08-15T11:21:33.706Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;一、KMP算法匹配字符串&quot;&gt;&lt;a href=&quot;#一、KMP算法匹配字符串&quot; class=&quot;headerlink&quot; title=&quot;一、KMP算法匹配字符串&quot;&gt;&lt;/a&gt;一、KMP算法匹配字符串&lt;/h2&gt;&lt;h2 id=&quot;1-题目&quot;&gt;&lt;a href=&quot;#1-题目&quot;</summary>
-        
-      
-    
-    
-    
-    
-    <category term="KMP算法" scheme="https://www.colorfo.top/tags/KMP%E7%AE%97%E6%B3%95/"/>
-    
-    <category term="字符串" scheme="https://www.colorfo.top/tags/%E5%AD%97%E7%AC%A6%E4%B8%B2/"/>
     
   </entry>
   
