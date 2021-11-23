@@ -6,7 +6,7 @@
   <link href="https://www.colorfo.top/atom.xml" rel="self"/>
   
   <link href="https://www.colorfo.top/"/>
-  <updated>2021-11-22T14:36:34.215Z</updated>
+  <updated>2021-11-23T07:34:42.595Z</updated>
   <id>https://www.colorfo.top/</id>
   
   <author>
@@ -17,11 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>进程的调度</title>
+    <link href="https://www.colorfo.top/posts/c59b.html"/>
+    <id>https://www.colorfo.top/posts/c59b.html</id>
+    <published>2021-11-23T06:41:39.000Z</published>
+    <updated>2021-11-23T07:34:42.595Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;序&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;进程都希望自己能够占用 CPU 进行工作，那么这涉及到前面说过的进程上下文切换。&lt;/p&gt;
+&lt;p&gt;一旦操作系统把进程切换到运行状态，也就意味着该进程占用着 CPU</summary>
+        
+      
+    
+    
+    
+    <category term="图解系统" scheme="https://www.colorfo.top/categories/%E5%9B%BE%E8%A7%A3%E7%B3%BB%E7%BB%9F/"/>
+    
+    
+    <category term="进程" scheme="https://www.colorfo.top/tags/%E8%BF%9B%E7%A8%8B/"/>
+    
+    <category term="调度" scheme="https://www.colorfo.top/tags/%E8%B0%83%E5%BA%A6/"/>
+    
+    <category term="进程的调度" scheme="https://www.colorfo.top/tags/%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6/"/>
+    
+  </entry>
+  
+  <entry>
     <title>线程的基础知识</title>
     <link href="https://www.colorfo.top/posts/ccfc.html"/>
     <id>https://www.colorfo.top/posts/ccfc.html</id>
     <published>2021-11-22T13:08:50.000Z</published>
-    <updated>2021-11-22T14:36:34.215Z</updated>
+    <updated>2021-11-22T14:36:54.665Z</updated>
     
     
       
@@ -527,31 +560,6 @@
     <category term="二叉树" scheme="https://www.colorfo.top/tags/%E4%BA%8C%E5%8F%89%E6%A0%91/"/>
     
     <category term="层序遍历" scheme="https://www.colorfo.top/tags/%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>用递归和非递归的方式实现二叉树的遍历</title>
-    <link href="https://www.colorfo.top/posts/a2eb.html"/>
-    <id>https://www.colorfo.top/posts/a2eb.html</id>
-    <published>2021-08-20T07:55:12.000Z</published>
-    <updated>2021-08-20T08:13:23.224Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;1-用递归的方式实现二叉树的前序、中序和后序遍历&quot;&gt;&lt;a href=&quot;#1-用递归的方式实现二叉树的前序、中序和后序遍历&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="数据结构" scheme="https://www.colorfo.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
-    
-    
-    <category term="二叉树的遍历" scheme="https://www.colorfo.top/tags/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86/"/>
     
   </entry>
   
