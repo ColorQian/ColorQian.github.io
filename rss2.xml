@@ -15,8 +15,37 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个记录学习经历与分享技术的地方!</description>
-    <pubDate>Tue, 23 Nov 2021 07:35:04 GMT</pubDate>
+    <pubDate>Fri, 03 Dec 2021 06:22:45 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>记录与导师的一次谈话</title>
+      <link>https://www.colorfo.top/posts/4e98.html</link>
+      <guid>https://www.colorfo.top/posts/4e98.html</guid>
+      <pubDate>Fri, 03 Dec 2021 05:22:02 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;很久没有在一个午后，”动笔”写一写东西了,昨天下午跟我的研究生导师聊了一会，所以就把聊天内容做一次记录，为了以后回忆的时候，能更好地想起这次对话。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;关于项目&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;​        </description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://www.colorfo.top/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+      
+      
+      <comments>https://www.colorfo.top/posts/4e98.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>进程的调度</title>
@@ -572,36 +601,6 @@
       
       
       <comments>https://www.colorfo.top/posts/6b0a.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>二叉树的层序遍历</title>
-      <link>https://www.colorfo.top/posts/bd66.html</link>
-      <guid>https://www.colorfo.top/posts/bd66.html</guid>
-      <pubDate>Sat, 21 Aug 2021 12:16:58 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h1 id=&quot;1-二叉树的层序遍历&quot;&gt;&lt;a href=&quot;#1-二叉树的层序遍历&quot; class=&quot;headerlink&quot; title=&quot;1.二叉树的层序遍历&quot;&gt;&lt;/a&gt;1.二叉树的层序遍历&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://www.colorfo.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/">数据结构</category>
-      
-      
-      <category domain="https://www.colorfo.top/tags/%E4%BA%8C%E5%8F%89%E6%A0%91/">二叉树</category>
-      
-      <category domain="https://www.colorfo.top/tags/%E5%B1%82%E5%BA%8F%E9%81%8D%E5%8E%86/">层序遍历</category>
-      
-      
-      <comments>https://www.colorfo.top/posts/bd66.html#disqus_thread</comments>
       
     </item>
     
