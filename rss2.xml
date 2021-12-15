@@ -15,8 +15,37 @@
     <atom:link href="https://www.colorfo.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>一个记录学习经历与分享技术的地方!</description>
-    <pubDate>Mon, 13 Dec 2021 04:43:32 GMT</pubDate>
+    <pubDate>Wed, 15 Dec 2021 07:29:34 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>进程间通信</title>
+      <link>https://www.colorfo.top/posts/e473.html</link>
+      <guid>https://www.colorfo.top/posts/e473.html</guid>
+      <pubDate>Wed, 15 Dec 2021 06:46:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;img src=&quot;https://gitee.com/ColorQian/cloudimages/raw/master/img/20211215151606.png&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://www.colorfo.top/categories/%E5%9B%BE%E8%A7%A3%E7%B3%BB%E7%BB%9F/">图解系统</category>
+      
+      
+      <category domain="https://www.colorfo.top/tags/%E8%BF%9B%E7%A8%8B/">进程</category>
+      
+      <category domain="https://www.colorfo.top/tags/%E8%BF%9B%E7%A8%8B%E9%97%B4%E9%80%9A%E4%BF%A1/">进程间通信</category>
+      
+      
+      <comments>https://www.colorfo.top/posts/e473.html#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>研二上学期总结</title>
@@ -570,33 +599,6 @@
       
       
       <comments>https://www.colorfo.top/posts/9a06.html#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>二叉树刷题笔记②</title>
-      <link>https://www.colorfo.top/posts/abcb.html</link>
-      <guid>https://www.colorfo.top/posts/abcb.html</guid>
-      <pubDate>Tue, 24 Aug 2021 05:40:11 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h1 id=&quot;1-左叶子之和&quot;&gt;&lt;a href=&quot;#1-左叶子之和&quot; class=&quot;headerlink&quot; title=&quot;1.左叶子之和&quot;&gt;&lt;/a&gt;1.左叶子之和&lt;/h1&gt;&lt;p&gt;&lt;a</description>
-          
-        
-      
-      
-      
-      
-      <category domain="https://www.colorfo.top/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/">数据结构</category>
-      
-      
-      <category domain="https://www.colorfo.top/tags/%E4%BA%8C%E5%8F%89%E6%A0%91/">二叉树</category>
-      
-      
-      <comments>https://www.colorfo.top/posts/abcb.html#disqus_thread</comments>
       
     </item>
     
